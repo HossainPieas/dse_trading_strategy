@@ -69,4 +69,4 @@ def momentum_strategy(start, end, formation, rolling_months):
 
 
 if __name__ == '__main__':
-	print(momentum_strategy(start='2020-1-31', end='2021-3-3',formation='2021-1-31', rolling_months=12))
+	print(momentum_strategy(start='2019-12-31', end='2021-3-3',formation='2021-1-31', rolling_months=12))
